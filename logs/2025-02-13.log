@@ -31,3 +31,57 @@
 2025-02-13 13:50:30 - Message logged to database successfully.
 2025-02-13 13:58:01 - 📩 Message received from mr.ssj2: https://discord.com/oauth2/authorize?client_id=1339454629490196633
 2025-02-13 13:58:01 - Message logged to database successfully.
+2025-02-13 16:09:04 - Starting database setup...
+2025-02-13 16:09:04 - Connecting to SQLite database: bot_data.db
+2025-02-13 16:09:04 - Database connection established.
+2025-02-13 16:09:04 - Ensuring messages table exists...
+2025-02-13 16:09:04 - Database setup complete.
+2025-02-13 16:09:04 - Database connection closed.
+2025-02-13 16:18:08 - Starting database setup...
+2025-02-13 16:18:08 - Connecting to SQLite database: bot_data.db
+2025-02-13 16:18:08 - Database connection established.
+2025-02-13 16:18:08 - Ensuring messages table exists...
+2025-02-13 16:18:08 - Database setup complete.
+2025-02-13 16:18:08 - Database connection closed.
+2025-02-13 16:18:13 - Starting Discord bot...
+2025-02-13 16:18:13 - Loaded environment variables.
+2025-02-13 16:18:13 - Bot intents configured.
+2025-02-13 16:18:13 - Discord client initialized.
+2025-02-13 16:18:13 - Connecting to SQLite database: bot_data.db
+2025-02-13 16:18:13 - Database connection established.
+2025-02-13 16:18:13 - Creating messages table if not exists...
+2025-02-13 16:18:13 - Database table setup complete.
+2025-02-13 16:18:18 - ✅ Bot is online as Analytics_Bot#5581
+2025-02-13 16:18:34 - 📩 Message received from mr.ssj2: poppieeee
+2025-02-13 16:18:34 - Failed to log message to database: table messages has no column named user_id
+2025-02-13 16:18:36 - 📩 Message received from mr.ssj2: fight
+2025-02-13 16:18:36 - Failed to log message to database: table messages has no column named user_id
+2025-02-13 16:18:37 - 📩 Message received from mr.ssj2: grind
+2025-02-13 16:18:37 - Failed to log message to database: table messages has no column named user_id
+2025-02-13 16:18:38 - 📩 Message received from mr.ssj2: rise
+2025-02-13 16:18:38 - Failed to log message to database: table messages has no column named user_id
+2025-02-13 16:18:38 - 📩 Message received from mr.ssj2: arise
+2025-02-13 16:18:38 - Failed to log message to database: table messages has no column named user_id
+2025-02-13 16:19:56 - Starting database setup...
+2025-02-13 16:19:56 - Connecting to SQLite database: bot_data.db
+2025-02-13 16:19:56 - Database connection established.
+2025-02-13 16:19:56 - Ensuring messages table exists...
+2025-02-13 16:19:56 - Database setup complete.
+2025-02-13 16:19:56 - Database connection closed.
+2025-02-13 16:19:59 - Starting Discord bot...
+2025-02-13 16:19:59 - Loaded environment variables.
+2025-02-13 16:19:59 - Bot intents configured.
+2025-02-13 16:19:59 - Discord client initialized.
+2025-02-13 16:19:59 - Connecting to SQLite database: bot_data.db
+2025-02-13 16:19:59 - Database connection established.
+2025-02-13 16:19:59 - Creating messages table if not exists...
+2025-02-13 16:19:59 - Database table setup complete.
+2025-02-13 16:20:04 - ✅ Bot is online as Analytics_Bot#5581
+2025-02-13 16:20:09 - 📩 Message received from mr.ssj2: she says
+2025-02-13 16:20:09 - Message logged to database successfully.
+2025-02-13 16:20:12 - 📩 Message received from mr.ssj2: she's from the islands
+2025-02-13 16:20:12 - Message logged to database successfully.
+2025-02-13 16:20:15 - 📩 Message received from mr.ssj2: girl you are my desire
+2025-02-13 16:20:15 - Message logged to database successfully.
+2025-02-13 16:20:22 - 📩 Message received from mr.ssj2: fight
+2025-02-13 16:20:22 - Message logged to database successfully.

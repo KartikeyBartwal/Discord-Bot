@@ -62,8 +62,8 @@ async def on_message(message):
     
     # Log message details in SQLite database
     try:
-        cursor.execute("INSERT INTO messages (user, message, timestamp) VALUES (?, ?, ?)",
-                       (message.author.name, message.content, str(message.created_at)))
+        cursor.execute("INSERT INTO messages (user, user_id, message, channel_id, timestamp) VALUES (?, ?, ?, ?, ?)",
+               (message.author.name, str(message.author.id), message.content, str(message.channel.id), str(message.created_at)))
         conn.commit()
         logger.info("Message logged to database successfully.")
     except Exception as e:
