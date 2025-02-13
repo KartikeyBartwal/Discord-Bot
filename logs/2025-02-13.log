@@ -1,0 +1,33 @@
+2025-02-13 10:36:00 - Starting Discord bot...
+2025-02-13 10:36:00 - Loaded environment variables.
+2025-02-13 10:36:00 - Bot intents configured.
+2025-02-13 10:36:00 - Discord client initialized.
+2025-02-13 10:36:00 - Connecting to SQLite database: bot_data.db
+2025-02-13 10:36:00 - Database connection established.
+2025-02-13 10:36:00 - Creating messages table if not exists...
+2025-02-13 10:36:00 - Database table setup complete.
+2025-02-13 13:49:05 - Starting Discord bot...
+2025-02-13 13:49:05 - Loaded environment variables.
+2025-02-13 13:49:05 - Bot intents configured.
+2025-02-13 13:49:05 - Discord client initialized.
+2025-02-13 13:49:05 - Connecting to SQLite database: bot_data.db
+2025-02-13 13:49:05 - Database connection established.
+2025-02-13 13:49:05 - Creating messages table if not exists...
+2025-02-13 13:49:05 - Database table setup complete.
+2025-02-13 13:49:10 - ✅ Bot is online as Analytics_Bot#5581
+2025-02-13 13:49:43 - 📩 Message received from mr.ssj2: I wish you a happy and abundant life
+2025-02-13 13:49:43 - Message logged to database successfully.
+2025-02-13 13:49:46 - 📩 Message received from mr.ssj2: You matter
+2025-02-13 13:49:46 - Message logged to database successfully.
+2025-02-13 13:49:48 - 📩 Message received from mr.ssj2: I love you
+2025-02-13 13:49:48 - Message logged to database successfully.
+2025-02-13 13:49:54 - 📩 Message received from mr.ssj2: I adore you
+2025-02-13 13:49:54 - Message logged to database successfully.
+2025-02-13 13:50:01 - 📩 Message received from mr.ssj2: Please take care of yourself
+2025-02-13 13:50:01 - Message logged to database successfully.
+2025-02-13 13:50:23 - 📩 Message received from mr.ssj2: 😄
+2025-02-13 13:50:23 - Message logged to database successfully.
+2025-02-13 13:50:30 - 📩 Message received from mr.ssj2: <sound:0:1>
+2025-02-13 13:50:30 - Message logged to database successfully.
+2025-02-13 13:58:01 - 📩 Message received from mr.ssj2: https://discord.com/oauth2/authorize?client_id=1339454629490196633
+2025-02-13 13:58:01 - Message logged to database successfully.
