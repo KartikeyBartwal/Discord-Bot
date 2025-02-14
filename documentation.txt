@@ -94,3 +94,18 @@ We’ll break this into small, momentum-building tasks. Your first goal is to ge
 15) Working on modifying SQLite schema to store: Timestamps, User IDs, Channel Ids
 
 16) Adding a database table visualizer in streamlit 
+
+17) Created analytics.py, which has functions for: message frequency per hour, user activity summary , channel activity summary and their plot functions
+
+18) Integrated analytics and visualizations into Streamlit:  
+   - Added a table viewer for raw database data  
+   - Created a message activity heatmap for hourly distribution  
+   - Developed bar charts for top 10 active users and channels  
+   - Enhanced UI for better data representation
+
+19) Completed Phase 2: Data Collection & Heatmap Logic  
+   - Successfully stored and visualized engagement data  
+   - Designed a schema to track message frequency and activity  
+   - Built a working Streamlit dashboard for insights  
+
+20) Phase 3 begins!
